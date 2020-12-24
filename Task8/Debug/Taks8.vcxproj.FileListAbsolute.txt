@@ -1,0 +1,4 @@
+C:\C++\Projects\Taks8\Debug\Taks8.exe
+C:\C++\Projects\Taks8\Debug\Taks8.pdb
+C:\C++\Projects\Task8\Debug\Taks8.exe
+C:\C++\Projects\Task8\Debug\Taks8.pdb
