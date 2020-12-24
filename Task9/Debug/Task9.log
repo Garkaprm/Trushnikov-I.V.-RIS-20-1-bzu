@@ -1,0 +1,6 @@
+﻿  Task9.cpp
+C:\C++\Projects\Task9\Task9.cpp(8,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C++\Projects\Task9\Task9.cpp(25,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C++\Projects\Task9\Task9.cpp(29,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C++\Projects\Task9\Task9.cpp(49,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Task9.vcxproj -> C:\C++\Projects\Task9\Debug\Task9.exe

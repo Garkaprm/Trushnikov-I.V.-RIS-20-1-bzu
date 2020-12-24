@@ -1,0 +1,2 @@
+C:\C++\Projects\Task9\Debug\Task9.exe
+C:\C++\Projects\Task9\Debug\Task9.pdb
