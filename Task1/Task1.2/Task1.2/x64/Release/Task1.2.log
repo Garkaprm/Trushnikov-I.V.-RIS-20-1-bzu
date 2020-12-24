@@ -1,0 +1,8 @@
+﻿  Task1.2.cpp
+C:\C++\Projects\Task1\Task1.2\Task1.2\Task1.2.cpp(14,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  3 of 10 functions (30.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Task1.2.vcxproj -> C:\C++\Projects\Task1\Task1.2\Task1.2\x64\Release\Task1.2.exe
