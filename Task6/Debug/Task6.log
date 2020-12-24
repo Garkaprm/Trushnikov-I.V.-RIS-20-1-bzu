@@ -1,0 +1,5 @@
+﻿  Task6.cpp
+C:\C++\Projects\Task6\Task6.cpp(11,14): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\C++\Projects\Task6\Task6.cpp(12,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\Projects\Task6\Task6.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Task6.vcxproj -> C:\C++\Projects\Task6\Debug\Task6.exe
